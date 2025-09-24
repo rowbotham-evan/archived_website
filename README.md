@@ -1,11 +1,5 @@
 ## Personal Website Repo
-Hi! I hope enjoy my [website](https://rowbotham-evan.github.io/website/).
-
-
-### Some Workflow Edits
-
-The building of the site uses hugo, the same as in Miles's source code. The difference is in the CI and maintaining of the website. All my edits....
-
+This is the old source code for my previous website. My new website can be found [here](https://rowbotham-evan.github.io/website/).
 
 ### Website Design Credit / Source Code 
 
